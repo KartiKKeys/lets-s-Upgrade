@@ -8,7 +8,7 @@ import java.util.*;
 public class Assignment_Day4 {
     
     public static void main(String[] args) {
-        //let the 5 integers be 5,4,1,5,5 their sum will be 20;
+        //let the 5 integers be 5,5,5,5,5 their sum will be 20;
         int sum = 0;
         int n;
         int i = 0;
